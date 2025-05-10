@@ -1,0 +1,15 @@
+{
+  "name": "dilseai",
+  "version": "1.0.0",
+  "description": "Your Personal AI Companion",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "author": "Shivam Mishra",
+  "license": "MIT"
+}
